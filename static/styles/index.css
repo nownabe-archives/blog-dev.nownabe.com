@@ -419,18 +419,18 @@ article .sns-buttons ul li.last-child::after {
   padding-left: 1rem
 }
 
+/* Footer Styles */
+
 #footer-container {
   margin-bottom: 5rem
 }
 
-/* Footer Styles */
-
-footer {
+#footer-container footer {
   border-top: 1px solid rgba(0,0,0,0.09);
   padding-top: 1rem
 }
 
-footer .copyright img {
+#footer-container footer .copyright img {
   width: 1rem;
   height: 1rem;
   margin: 0 0.2rem
