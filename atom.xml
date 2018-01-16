@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>nownab.log</title>
+  <id>https://blog-dev.nownabe.com/</id>
+  <updated>2018-01-16T00:00:00+09:00</updated>
+  <subtitle>blog of nownabe who is software engineer</subtitle>
+  <link href="https://blog-dev.nownabe.com/"></link>
+  <author>
+    <name>nownabe</name>
+  </author>
+  <entry>
+    <title>title</title>
+    <updated>2018-01-16T00:00:00+09:00</updated>
+    <id>tag:blog-dev.nownabe.com,2018-01-16:/tech/2018/01/16/1516114776.html</id>
+    <content type="html">This is an example.</content>
+    <link href="https://blog-dev.nownabe.com/tech/2018/01/16/1516114776.html" rel="alternate"></link>
+    <author>
+      <name>nownabe</name>
+    </author>
+  </entry>
+</feed>
