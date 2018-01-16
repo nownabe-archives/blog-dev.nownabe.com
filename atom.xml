@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>nownab.log</title>
   <id>https://blog-dev.nownabe.com/</id>
-  <updated>2018-01-16T15:00:00Z</updated>
+  <updated>2018-01-17T00:00:00+09:00</updated>
   <subtitle>Software Engineer nownabe&#39;s blog</subtitle>
   <link href="https://blog-dev.nownabe.com/"></link>
   <author>
@@ -9,10 +9,10 @@
   </author>
   <entry>
     <title>title</title>
-    <updated>2018-01-16T15:00:00Z</updated>
-    <id>tag:blog-dev.nownabe.com,2018-01-16:/diary/2018/01/17/1516114933.html</id>
+    <updated>2018-01-17T00:00:00+09:00</updated>
+    <id>tag:blog-dev.nownabe.com,2018-01-17:/diary/2018/01/17/1516115339.html</id>
     <content type="html">This is an example.</content>
-    <link href="https://blog-dev.nownabe.com/diary/2018/01/17/1516114933.html" rel="alternate"></link>
+    <link href="https://blog-dev.nownabe.com/diary/2018/01/17/1516115339.html" rel="alternate"></link>
     <author>
       <name>nownabe</name>
     </author>
@@ -43,6 +43,16 @@
     <id>tag:blog-dev.nownabe.com,2018-01-16:/log/2018/01/17/1516115062.html</id>
     <content type="html">This is an example.</content>
     <link href="https://blog-dev.nownabe.com/log/2018/01/17/1516115062.html" rel="alternate"></link>
+    <author>
+      <name>nownabe</name>
+    </author>
+  </entry>
+  <entry>
+    <title>title</title>
+    <updated>2018-01-16T15:00:00Z</updated>
+    <id>tag:blog-dev.nownabe.com,2018-01-16:/log/2018/01/17/1516115242.html</id>
+    <content type="html">This is an example.</content>
+    <link href="https://blog-dev.nownabe.com/log/2018/01/17/1516115242.html" rel="alternate"></link>
     <author>
       <name>nownabe</name>
     </author>
