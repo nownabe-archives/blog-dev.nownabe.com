@@ -9,10 +9,20 @@
   "items": [
     {
       "id": "",
-      "url": "https://blog-dev.nownabe.com/tech/2018/01/16/1516114776.html",
+      "url": "https://blog-dev.nownabe.com/diary/2018/01/17/1516114933.html",
       "title": "title",
       "summary": "This is an example.",
-      "date_published": "2018-01-15T15:00:00Z",
+      "date_published": "2018-01-16T15:00:00Z",
+      "author": {
+        "name": "nownabe"
+      }
+    },
+    {
+      "id": "",
+      "url": "https://blog-dev.nownabe.com/diary/2018/01/17/1516114933.html",
+      "title": "title",
+      "summary": "This is an example.",
+      "date_published": "2018-01-16T15:00:00Z",
       "author": {
         "name": "nownabe"
       }
