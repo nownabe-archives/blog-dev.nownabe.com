@@ -9,10 +9,10 @@
   "items": [
     {
       "id": "",
-      "url": "https://blog-dev.nownabe.com/log/2018/01/17/1516115062.html",
+      "url": "https://blog-dev.nownabe.com/diary/2018/01/17/1516114933.html",
       "title": "title",
       "summary": "This is an example.",
-      "date_published": "2018-01-17T00:00:00+09:00",
+      "date_published": "2018-01-16T15:00:00Z",
       "author": {
         "name": "nownabe"
       }
@@ -30,6 +30,16 @@
     {
       "id": "",
       "url": "https://blog-dev.nownabe.com/diary/2018/01/17/1516114978.html",
+      "title": "title",
+      "summary": "This is an example.",
+      "date_published": "2018-01-16T15:00:00Z",
+      "author": {
+        "name": "nownabe"
+      }
+    },
+    {
+      "id": "",
+      "url": "https://blog-dev.nownabe.com/log/2018/01/17/1516115062.html",
       "title": "title",
       "summary": "This is an example.",
       "date_published": "2018-01-16T15:00:00Z",
