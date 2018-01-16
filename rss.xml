@@ -2,15 +2,22 @@
   <channel>
     <title>nownab.log</title>
     <link>https://blog-dev.nownabe.com/</link>
-    <description>blog of nownabe who is software engineer</description>
+    <description>Software Engineer nownabe&#39;s blog</description>
     <managingEditor> (nownabe)</managingEditor>
-    <pubDate>Tue, 16 Jan 2018 00:00:00 +0900</pubDate>
+    <pubDate>Mon, 15 Jan 2018 15:00:00 +0000</pubDate>
     <item>
       <title>title</title>
       <link>https://blog-dev.nownabe.com/tech/2018/01/16/1516114776.html</link>
       <description>This is an example.</description>
       <author>nownabe</author>
-      <pubDate>Tue, 16 Jan 2018 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 15 Jan 2018 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>title</title>
+      <link>https://blog-dev.nownabe.com/tech/2018/01/16/1516114776.html</link>
+      <description>This is an example.</description>
+      <author>nownabe</author>
+      <pubDate>Mon, 15 Jan 2018 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

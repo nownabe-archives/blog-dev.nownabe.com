@@ -2,7 +2,7 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "nownab.log",
   "home_page_url": "https://blog-dev.nownabe.com/",
-  "description": "blog of nownabe who is software engineer",
+  "description": "Software Engineer nownabe's blog",
   "author": {
     "name": "nownabe"
   },
@@ -12,7 +12,17 @@
       "url": "https://blog-dev.nownabe.com/tech/2018/01/16/1516114776.html",
       "title": "title",
       "summary": "This is an example.",
-      "date_published": "2018-01-16T00:00:00+09:00",
+      "date_published": "2018-01-15T15:00:00Z",
+      "author": {
+        "name": "nownabe"
+      }
+    },
+    {
+      "id": "",
+      "url": "https://blog-dev.nownabe.com/tech/2018/01/16/1516114776.html",
+      "title": "title",
+      "summary": "This is an example.",
+      "date_published": "2018-01-15T15:00:00Z",
       "author": {
         "name": "nownabe"
       }
