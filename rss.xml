@@ -7,7 +7,7 @@
     <pubDate>Wed, 17 Jan 2018 00:00:00 +0900</pubDate>
     <item>
       <title>title</title>
-      <link>https://blog-dev.nownabe.com/diary/2018/01/17/1516115339.html</link>
+      <link>https://blog-dev.nownabe.com/books/2018/01/17/1516115529.html</link>
       <description>This is an example.</description>
       <author>nownabe</author>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0900</pubDate>
@@ -36,6 +36,13 @@
     <item>
       <title>title</title>
       <link>https://blog-dev.nownabe.com/log/2018/01/17/1516115242.html</link>
+      <description>This is an example.</description>
+      <author>nownabe</author>
+      <pubDate>Tue, 16 Jan 2018 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>title</title>
+      <link>https://blog-dev.nownabe.com/diary/2018/01/17/1516115339.html</link>
       <description>This is an example.</description>
       <author>nownabe</author>
       <pubDate>Tue, 16 Jan 2018 15:00:00 +0000</pubDate>
